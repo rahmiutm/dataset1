@@ -1,0 +1,59 @@
+﻿class,age,weight(kg),height(m),gender,BMI,BMR,calories_to_maintain_weight,eat,food,calories_a,"Activity, Exercise or Sport (1 hour)",Calories (per kg)
+underweight,16,47.79955011,1.614324593,F,18.34180546,1313.111,2494.9109,breakfast,"Susu bubuk, Spaghetti",652,"Walking, pushing a wheelchair",0.82323563
+underweight,16,47.79955011,1.614324593,F,18.34180546,1313.111,2494.9109,lunch,"Nasi Jagung Empal Goreng, Ketimun, Yoghurt, Pisang mas",1138,Painting,0.92749409
+underweight,16,47.89724394,1.614810263,M,18.36823904,1420.797,1704.9564,breakfast,"Roti Putih, Susu Kental Manis, Apel",642,Skateboarding,1.02972154
+normal,16,47.62947945,1.601501666,F,18.57039089,1309.298,1571.1576,lunch,"Nasi Rames, Tahu Goreng, Tekwan, Srikaya",424,"Cleaning, dusting",0.515199272
+normal,16,47.96978018,1.602347527,M,18.68333063,1415.56,1840.228,breakfast,"Susu bubuk, melon",550,"Swimming leisurely, not laps",1.2348534
+normal,16,47.6781498,1.592026561,M,18.81129853,1406.404,1828.3252,breakfast,"Susu bubuk, apel",571,Walking 2.5 mph,0.617426722
+normal,16,48.6658459,1.606843016,M,18.84852533,1427.344,2426.4848,breakfast,"Susu bubuk, apel, anggur",575,Swimming backstroke,1.441339355
+normal,17,48.95567198,1.607656404,F,18.941595,1318.376,1582.0512,lunch,"Nasi Rames, Ayam goreng paha, Sayur asem",459,"Tennis, singles",1.647825266
+normal,16,47.98104035,1.589297638,M,18.99586981,1409.189,2395.6213,breakfast,"Susu bubuk, spaghetti, yoghurt, apel",736,"Basketball, wheelchair",1.338434901
+normal,16,49.84209902,1.614894872,M,19.11207375,1447.484,2750.2196,lunch,"Nasi Jagung Empal Goreng, Teh",1100,Painting,1.92749409
+normal,16,48.93684295,1.595442704,F,19.22531764,1320.819,1584.9828,breakfast,"Kue Pia, Susu Kental Manis",632,"Climbing hills, carrying 10 to 20 lb",1.544920812
+normal,16,49.42237376,1.602202264,M,19.25257919,1435.388,2153.082,breakfast,"Susu bubuk, apel",545,"Boxing, sparring",1.85295717
+normal,16,50.25419838,1.609484077,F,19.3998772,1335.853,1603.0236,dinner,"Nasi Uduk, bihun goreng",408,"Cycling, 16-19 mph, very fast, racing",2.471060896
+normal,16,50.25419838,1.609484077,F,19.3998772,1335.853,1603.0236,lunch,"Nasi Teri Balado, nanas",597,"Running, 7.5mph (8 min mile)",2.574642352
+normal,16,50.52742039,1.607284177,M,19.55878119,1453.068,2760.8292,lunch,"Nasi Jagung Empal Goreng, Kangkung rebus, Teh",1121,"Running, 8 mph (7.5 min mile)",2.779774257
+normal,16,50.67509581,1.609122813,M,19.57114318,1456.01,2184.015,lunch,"Nasi Jagung Empal Goreng, Semangka",975,Painting,2.92749409
+normal,16,51.31632931,1.611483298,F,19.76077468,1346.389,1750.3057,lunch,"Nasi Rames, Tahu Goreng, Tekwan",323,Painting,4.92749409
+normal,16,51.31632931,1.611483298,F,19.76077468,1346.389,1750.3057,breakfast,"Roti Putih, teh, Spaghetti",687,Painting,5.92749409
+normal,16,52.41552889,1.621936691,M,19.92471763,1486.261,2823.8959,lunch,"Nasi Jagung Empal Goreng, Bayam rebus, Nanas, Teh",1174,Painting,7.92749409
+normal,16,52.17422802,1.61487389,F,20.00685415,1355.201,1626.2412,breakfast,"Roti Putih, Susu Kental Manis, Buah Anggur",614,Painting,6.92749409
+normal,16,51.273498,1.59984241,M,20.03265614,1459.568,1751.4816,breakfast,"Spaghetti, Teh, Apel",497,"Cycling, >20 mph, racing",3.294973528
+normal,16,51.273498,1.59984241,M,20.03265614,1459.568,1751.4816,dinner,"Nasi Uduk, ayam goreng paha, Buah Naga Merah",612,Painting,3.92749409
+normal,16,52.82867333,1.620131139,M,20.12655138,1491.018,2236.527,lunch,"Nasi Jagung Empal Goreng, Kubis, Semangka",1026,Painting,8.92749409
+normal,16,53.59650179,1.624258068,M,20.31544684,1503.601,2556.1217,dinner,"Nasi Gulai Kambing, Susu Kedelai",347,Painting,11.92749409
+normal,16,52.9601966,1.610749809,F,20.41236905,1362.045,1770.6585,dinner,"Nasi Uduk, bihun goreng, ayam goreng paha",695,Painting,9.92749409
+normal,16,53.53960864,1.610912704,F,20.63151781,1367.635,1641.162,dinner,Nasi Goreng telur ayam ceplok,659,Painting,10.92749409
+normal,17,54.37376488,1.620720363,F,20.70013737,1372.611,1647.1332,breakfast,"Roti Putih, teh ",548,Painting,16.92749409
+normal,16,53.90590912,1.611714179,M,20.75201733,1501.568,1952.0384,dinner,"Nasi Cap cai sayur, kerupuk udang, susu kedelai",658,Painting,12.92749409
+normal,16,53.90590912,1.611714179,M,20.75201733,1501.568,1952.0384,lunch,"Nasi Gurame Asam Manis, Semangka, Pepaya, Tumis Kangkung",680,Painting,13.92749409
+normal,19,56.70714403,1.631732654,M,21.29804625,1529.554,2906.1526,lunch,"Nasi Jagung Empal Goreng, Suwir Ayam, Melon, Jus Tomat",1370,Painting,17.92749409
+normal,16,54.06686536,1.590294284,M,21.37844905,1493.063,1791.6756,breakfast,Susu bubuk,513,Painting,14.92749409
+normal,18,57.10113915,1.631902033,M,21.44157115,1541.837,2621.1229,dinner,"Nasi Gulai Kambing, Susu Kedelai, Melon",384,Painting,18.92749409
+normal,16,54.32053104,1.58967949,M,21.49536704,1496.231,2842.8389,breakfast,"Susu bubuk, Biskuit, Apel, Semangka",1057,Painting,15.92749409
+normal,21,57.95560381,1.631320146,M,21.77795198,1532.852,2912.4188,dinner,"Nasi Gulai Kambing, Sate Kulit, Susu Kedelai",457,Painting,19.92749409
+normal,25,60.5143106,1.632457645,M,22.70775742,1541.275,2928.4225,lunch,"Nasi Jagung Empal Goreng, Suwir Ayam, Bihun, Jus Tomat",1487,Painting,20.92749409
+normal,25,61.22486211,1.632315565,M,22.9783887,1550.938,2946.7822,breakfast,"Susu bubuk, Biskuit, Apel, Melon",1066,Painting,21.92749409
+normal,25,61.57147541,1.631936647,M,23.11920895,1555.498,2644.3466,lunch,"Nasi Jagung Empal Goreng, Daun Singkong Lodeh, Terong Kukus, Semangka, Teh",1205,Painting,22.92749409
+normal,25,61.83130475,1.630791558,M,23.24938673,1558.485,2649.4245,dinner,"Nasi Gulai Kambing, Sate Kulit",416,Painting,23.92749409
+normal,23,63.47070034,1.630988364,F,23.86006185,1433.487,2150.2305,lunch,"Nasi Gurame Asam Manis, Semangka, Pepaya, Tumis Kangkung, Jus Tomat",700,Painting,24.92749409
+overweight,27,68.00391085,1.632881006,F,25.50496986,1458.527,1750.2324,lunch,"Nasi Rames, Tahu Goreng, Bihun Goreng, Srikaya",525,Painting,25.92749409
+overweight,27,68.00391085,1.632881006,F,25.50496986,1458.527,1750.2324,dinner,Nasi Goreng telur ayam dadar,527,Painting,26.92749409
+overweight,27,68.00391085,1.632881006,F,25.50496986,1458.527,1750.2324,breakfast,"Roti Putih, Susu Kental Manis",584,Painting,27.92749409
+obese class II,90,95.38240275,1.631284121,M,35.84338695,1576.381,2049.2953,lunch,"Nasi cumi, tumis kangkung, sawo, cake tape",697,Painting,28.92749409
+obese class II,89,95.93537751,1.631725993,M,36.03166452,1590.978,2386.467,lunch,Nasi Jagung Empal Goreng,947,Painting,29.92749409
+obese class II,90,96.35845899,1.632193819,F,36.16982337,1434.514,2438.6738,lunch,"Nasi Jagung Empal Goreng, Kubis, Melon, Pisang mas",1162,Painting,30.92749409
+obese class II,88,97.94937962,1.631750097,M,36.78700196,1625.382,1950.4584,lunch,"Nasi Gurame Asam Manis, Semangka, Pepaya",628,Painting,31.92749409
+obese class II,88,97.94937962,1.631750097,M,36.78700196,1625.382,1950.4584,dinner,"Nasi Cap cai sayur, tahu telur, susu kedelai",646,Painting,32.92749409
+obese class II,85,97.97689924,1.631409058,F,36.81272379,1473.418,2504.8106,breakfast,"Susu bubuk, Spaghetti, Melon",689,Painting,33.92749409
+obese class II,85,97.97689924,1.631409058,F,36.81272379,1473.418,2504.8106,lunch,"Nasi Jagung Empal Goreng, Yoghurt, Pisang mas",1126,Painting,34.92749409
+obese class II,87,98.14684261,1.632778704,M,36.81473496,1635.401,1962.4812,breakfast,"Susu bubuk, apel, melon",608,Painting,35.92749409
+obese class II,90,98.17287481,1.632090826,M,36.85554703,1615.014,2099.5182,breakfast,"Susu bubuk, spaghetti, yoghurt",678,Painting,36.92749409
+obese class II,90,98.17287481,1.632090826,M,36.85554703,1615.014,2099.5182,dinner,"Nasi Cap cai sayur, wortel rebus, kerupuk udang, susu kedelai, labu siam",712,Painting,37.92749409
+obese class II,90,98.5972058,1.6331395,F,36.96732636,1456.167,2475.4839,dinner,"Nasi Cap cai sayur, kerupuk udang, susu kedelai, labu siam",684,Painting,39.92749409
+obese class II,84,98.46179265,1.631700039,F,36.98171871,1482.822,2224.233,lunch,"Nasi Jagung Empal Goreng, Kangkung Kukus, Semangka",1005,Painting,38.92749409
+obese class II,89,98.72052456,1.633163847,M,37.01245903,1629.853,2770.7501,breakfast,"Susu bubuk, Biskuit, Apel",1029,Painting,42.92749409
+obese class II,86,98.71154705,1.632839932,F,37.02377796,1476.014,1771.2168,lunch,"Nasi Teri Balado, Semangka",573,Painting,41.92749409
+obese class II,89,98.63704042,1.63111158,F,37.07427703,1460.905,1753.086,lunch,"Nasi Teri Balado, Sawo",637,Painting,40.92749409
+obese class II,86,98.75571101,1.632059902,F,37.07575731,1476.305,2804.9795,lunch,"Nasi Jagung Empal Goreng, Nanas, Teh",1151,Painting,43.92749409
